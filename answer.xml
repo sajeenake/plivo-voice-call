@@ -1,5 +1,5 @@
 <Response>
-    <GetInput inputType="dtmf" executionTimeout="15" action="https://99e6d769c0bd.ngrok.io/myphpapp/plivo-voice-call/firstbranch.php" method="POST"  redirect="true">>
+    <GetInput inputType="dtmf" executionTimeout="15" action="http://f5ed3c91ce7f.ngrok.io/myphpapp/plivo-voice-call/firstbranch.php" method="POST"  redirect="true">>
         <Speak>Welcome to the Busibuds Demo app, Press 1 to talk to our Sales representative. Press 2 to talk to our Support representative</Speak>
     </GetInput>
 	<Speak>Sorry, I didn't catch that. Please hangup and try again later.</Speak>
