@@ -1,0 +1,6 @@
+{
+    "require": {
+        "alexusmai/laravel-file-manager": "^2.5",
+        "plivo/plivo-php": "^4.18"
+    }
+}
